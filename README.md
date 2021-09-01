@@ -1,5 +1,7 @@
 # Simple Blog App in ReactJS
 
+![list-of-comments](list-of-comments.png)
+
 This project was to emphasize some basic points in ReactJS:
 * Duplicating Components
 * Component Nesting
